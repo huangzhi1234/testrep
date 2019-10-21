@@ -27,6 +27,7 @@ public class UserController {
         list.add(new ResultMsg("0","成功",new UserPo("黄志001","123456",34)));
         list.add(new ResultMsg("0","成功",new UserPo("黄志002","123456",34)));
         list.add(new ResultMsg("0","成功",new UserPo("黄志003","123456",34)));
+
         return list;
     }
 
